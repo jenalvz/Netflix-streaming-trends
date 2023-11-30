@@ -1,0 +1,849 @@
+Profile Name,Country Iso Code,Device,Is Kids,Query Typed,Displayed Name,Action,Section,Utc Timestamp
+La que paga,US,Set Top Box,0,,,play,prequery_results,2023-07-29 02:21:56
+La que paga,US,Set Top Box,0,,,select,prequery_results,2023-07-29 02:21:52
+La que paga,MX,Android Phone,0,extrac,Extraction 2,select,title_results,2023-07-06 00:57:23
+La que paga,MX,Android Phone,0,hem,Extraction,select,title_results,2023-07-06 00:57:05
+La que paga,US,iPhone,0,titanic,"Attack on Pearl Harbor: Minute by Minute: Season 1: ""Countdown to War""",play,title_results,2023-06-28 17:47:22
+La que paga,US,iPhone,0,titanic,,select,title_results,2023-06-28 17:47:20
+La que paga,US,iPhone,0,titanic,,select,title_results,2023-06-28 17:47:06
+La que paga,US,iPhone,0,broken,"Broken: Season 1: ""Makeup Mayhem""",play,title_results,2023-06-27 00:02:03
+La que paga,US,iPhone,0,broken,,select,title_results,2023-06-26 23:54:06
+La que paga,US,iPhone,0,bla,,select,title_results,2023-06-17 03:25:33
+La que paga,US,Set Top Box,0,ra,,play,title_results,2023-06-05 01:15:20
+La que paga,US,Set Top Box,0,ra,,select,title_results,2023-06-05 01:15:18
+La que paga,US,Set Top Box,0,ra,,play,title_results,2023-06-05 01:13:36
+La que paga,US,Set Top Box,0,ra,,select,title_results,2023-06-05 01:13:34
+La que paga,US,iPhone,0,black,"Black Mirror: Season 5: ""Smithereens""",play,title_results,2023-06-02 04:17:16
+La que paga,US,iPhone,0,black,,select,title_results,2023-06-02 04:17:07
+La que paga,US,iPhone,0,ultim,"The Ultimatum: Queer Love: Season 1: ""In and Out of Love""",play,title_results,2023-05-31 23:32:49
+La que paga,US,iPhone,0,ultim,,select,title_results,2023-05-31 23:32:35
+La que paga,US,iPhone,0,aileen wou,,select,title_results,2023-05-30 03:10:39
+La que paga,US,iPhone,0,aileen wou,The Mystery of Marilyn Monroe: The Unheard Tapes,add,title_results,2023-05-30 03:10:31
+La que paga,US,iPhone,0,aileen wou,The Mystery of Marilyn Monroe: The Unheard Tapes,select,title_results,2023-05-30 03:10:26
+La que paga,US,iPhone,0,aileen wou,"Extremely Wicked, Shockingly Evil and Vile",add,title_results,2023-05-30 03:10:19
+La que paga,US,iPhone,0,aileen wou,"Extremely Wicked, Shockingly Evil and Vile",select,title_results,2023-05-30 03:10:07
+La que paga,US,iPhone,0,aileen wou,,select,title_results,2023-05-30 03:09:52
+La que paga,US,iPhone,0,uñtima,,select,title_results,2023-05-29 18:38:57
+La que paga,US,Set Top Box,0,all,,play,title_results,2023-05-28 02:52:39
+La que paga,US,Set Top Box,0,all,,play,title_results,2023-05-28 02:50:24
+La que paga,US,Set Top Box,0,all,,select,title_results,2023-05-28 02:50:13
+La que paga,US,Set Top Box,0,all,,play,title_results,2023-05-27 23:30:37
+La que paga,US,Set Top Box,0,all,,select,title_results,2023-05-27 23:29:41
+La que paga,US,iPhone,0,the ultimat,,select,title_results,2023-05-26 22:46:56
+La que paga,US,iPhone,0,too,,select,title_results,2023-04-19 04:19:12
+La que paga,US,iPhone,0,too,,select,title_results,2023-04-19 04:11:49
+La que paga,US,iPhone,0,too,,select,title_results,2023-04-19 02:20:33
+La que paga,US,iPhone,0,too,"Too Hot to Handle: Season 1: ""Love, Sex or Money""",play,title_results,2023-04-19 02:20:23
+La que paga,US,Set Top Box,0,,,play,prequery_results,2023-03-30 22:21:50
+La que paga,US,Set Top Box,0,,,select,prequery_results,2023-03-30 22:21:43
+La que paga,US,iPhone,0,a trip,A Trip to Infinity,select,title_results,2023-03-26 23:31:53
+La que paga,US,iPhone,0,sorry to both,Synchronic,add,title_results,2023-03-19 14:27:07
+La que paga,US,iPhone,0,sorry to both,Synchronic,select,title_results,2023-03-19 14:26:59
+La que paga,US,iPhone,0,sorry to both,Wine Country,select,title_results,2023-03-19 14:26:35
+La que paga,US,Set Top Box,0,lov,,play,title_results,2023-03-05 06:33:03
+La que paga,US,Set Top Box,0,lov,,play,title_results,2023-03-05 06:28:59
+La que paga,US,Set Top Box,0,lov,,select,title_results,2023-03-05 06:28:31
+La que paga,US,Set Top Box,0,the s,The Strays,play,title_results,2023-03-05 03:28:15
+La que paga,US,Set Top Box,0,the s,The Strays,select,title_results,2023-03-05 03:28:13
+La que paga,US,Set Top Box,0,an,,play,title_results,2023-03-01 03:17:58
+La que paga,US,Set Top Box,0,an,,select,title_results,2023-03-01 03:17:43
+La que paga,US,Set Top Box,0,anci,,play,title_results,2023-02-28 23:32:22
+La que paga,US,Set Top Box,0,anci,,select,title_results,2023-02-28 23:32:15
+La que paga,MX,Smart TV,0,cra,Colors of Love,play,suggestion_results,2023-01-20 03:49:56
+La que paga,MX,Smart TV,0,cra,Colors of Love,select,suggestion_results,2023-01-20 03:49:52
+La que paga,MX,Smart TV,0,cra,Where the Crawdads Sing,select,suggestion_results,2023-01-20 03:49:15
+La que paga,MX,Smart TV,0,cra,Where the Crawdads Sing,select,suggestion_results,2023-01-20 03:49:15
+La que paga,US,iPad,0,craw,Where the Crawdads Sing,select,title_results,2023-01-17 01:10:21
+La que paga,US,iPad,0,craw,Where the Crawdads Sing,select,title_results,2023-01-17 01:08:49
+La que paga,US,Set Top Box,0,don,,play,title_results,2023-01-14 22:15:51
+La que paga,US,Set Top Box,0,don,,play,title_results,2023-01-14 22:15:51
+La que paga,US,Set Top Box,0,don,,select,title_results,2023-01-14 22:15:42
+La que paga,US,Set Top Box,0,don,,select,title_results,2023-01-14 22:15:42
+La que paga,US,iPhone,0,kaos,,select,title_results,2023-01-09 18:12:22
+La que paga,US,iPhone,0,kaos,,add,title_results,2023-01-09 18:12:16
+La que paga,US,Set Top Box,0,k2,14 Peaks: Nothing Is Impossible,play,title_results,2023-01-08 22:51:25
+La que paga,US,Set Top Box,0,k2,14 Peaks: Nothing Is Impossible,play,title_results,2023-01-08 22:51:25
+La que paga,US,Set Top Box,0,k2,14 Peaks: Nothing Is Impossible,play,title_results,2023-01-08 21:30:30
+La que paga,US,Set Top Box,0,k2,14 Peaks: Nothing Is Impossible,play,title_results,2023-01-08 21:30:30
+La que paga,US,Set Top Box,0,k2,14 Peaks: Nothing Is Impossible,select,title_results,2023-01-08 21:30:26
+La que paga,US,Set Top Box,0,k2,14 Peaks: Nothing Is Impossible,select,title_results,2023-01-08 21:30:26
+La que paga,US,iPhone,0,ugly,,select,title_results,2022-12-24 00:47:10
+La que paga,US,iPhone,0,ugly,,select,title_results,2022-12-24 00:47:01
+La que paga,US,iPhone,0,take your pills,Take Your Pills,select,title_results,2022-12-24 00:46:37
+La que paga,US,iPhone,0,explained,,select,title_results,2022-12-24 00:46:14
+La que paga,US,iPhone,0,mind,,select,title_results,2022-12-24 00:46:04
+La que paga,US,iPhone,0,mind,,select,title_results,2022-12-24 00:44:50
+La que paga,US,iPhone,0,aubrey plaza,"Easy: Season 1: ""The F**king Study""",play,title_results,2022-12-21 03:56:52
+La que paga,US,iPhone,0,aubrey plaza,,select,title_results,2022-12-21 03:56:39
+La que paga,US,iPhone,0,,Emily the Criminal,select,prequery_results,2022-12-21 03:34:53
+La que paga,US,iPhone,0,rebel,,select,title_results,2022-12-19 19:57:32
+La que paga,US,iPhone,0,ugly,,select,title_results,2022-12-19 01:54:11
+La que paga,US,iPhone,0,african american food,,select,title_results,2022-12-19 01:53:33
+La que paga,MX,iPhone,0,,"Wednesday: Season 1: ""Woe Is the Loneliest Number""",play,prequery_results,2022-12-15 04:40:17
+La que paga,MX,iPhone,0,,,select,prequery_results,2022-12-15 04:40:06
+La que paga,US,iPhone,0,club ,,select,title_results,2022-11-25 14:11:07
+La que paga,US,iPhone,0,interv,,select,title_results,2022-11-23 23:38:05
+La que paga,US,iPad,0,chefs,"Chef's Table: BBQ: Volume 1: ""Rosalia Chay Chuc""",play,title_results,2022-11-21 01:34:29
+La que paga,US,iPad,0,chefs,,select,title_results,2022-11-21 01:33:31
+La que paga,US,iPhone,0,chef,,select,title_results,2022-11-20 23:02:35
+La que paga,US,XBOX SS,0,amer,,select,suggestion_results,2022-11-16 01:41:21
+La que paga,US,XBOX SS,0,amer,,select,suggestion_results,2022-11-16 01:41:21
+La que paga,US,iPhone,0,history,#AnneFrank - Parallel Stories,add,title_results,2022-11-10 23:57:35
+La que paga,US,iPhone,0,louisiana,Marked,select,title_results,2022-11-10 23:55:59
+La que paga,US,iPhone,0,louisiana,,select,title_results,2022-11-10 23:51:47
+La que paga,US,iPhone,0,louisiana,The Water Man,select,title_results,2022-11-10 23:51:21
+La que paga,US,iPhone,0,the watcher,,select,title_results,2022-10-28 01:44:41
+La que paga,US,iPhone,0,the watcher,,select,title_results,2022-10-28 01:20:39
+La que paga,US,iPhone,0,stockh,,select,title_results,2022-10-25 01:22:23
+La que paga,US,iPhone,0,a trip to,A Trip to Infinity,add,title_results,2022-10-19 04:26:21
+La que paga,US,iPhone,0,a trip to,A Trip to Infinity,select,title_results,2022-10-19 04:26:18
+La que paga,US,iPhone,0,human,,select,title_results,2022-10-16 02:43:48
+La que paga,US,iPhone,0,future,,select,title_results,2022-10-14 04:24:17
+La que paga,US,iPhone,0,ted b,"Extremely Wicked, Shockingly Evil and Vile",select,title_results,2022-09-29 03:36:56
+La que paga,US,iPhone,0,dah,,add,title_results,2022-09-21 14:47:01
+La que paga,US,iPhone,0,dah,,select,title_results,2022-09-21 14:46:58
+La que paga,US,iPhone,0,sorry,Sorry to Bother You,play,title_results,2022-09-16 03:09:39
+La que paga,US,iPhone,0,sorry,Sorry to Bother You,select,title_results,2022-09-16 03:09:33
+La que paga,US,iPhone,0,how to ,Mean Girls,play,title_results,2022-09-15 02:40:50
+La que paga,US,iPhone,0,how to ,Mean Girls,select,title_results,2022-09-15 02:40:48
+La que paga,US,iPhone,0,how to ,,select,title_results,2022-09-15 00:35:01
+La que paga,US,iPhone,0,cro,,select,title_results,2022-09-09 17:11:04
+La que paga,US,iPhone,0,the cro,,select,title_results,2022-09-08 17:41:24
+La que paga,US,iPhone,0,spirited away,Spirited Away,select,suggestion_results,2022-09-01 03:55:21
+La que paga,US,iPhone,0,food,,select,title_results,2022-08-24 21:56:59
+La que paga,US,iPhone,0,food,,select,title_results,2022-08-24 21:44:20
+La que paga,US,iPhone,0,food,,select,title_results,2022-08-24 21:43:13
+La que paga,US,iPhone,0,13,13TH,select,title_results,2022-08-19 01:54:20
+La que paga,US,iPhone,0,13,13TH,select,title_results,2022-08-17 18:48:15
+La que paga,US,iPhone,0,interior,,select,title_results,2022-08-07 21:06:35
+La que paga,US,iPhone,0,42 grams,42 Grams,select,suggestion_results,2022-08-07 18:18:59
+La que paga,US,iPhone,0,chefs,,select,title_results,2022-08-05 02:53:04
+La que paga,US,iPhone,0,chefs,,select,title_results,2022-08-05 02:25:30
+La que paga,US,iPhone,0,breaki,,select,title_results,2022-08-04 12:40:58
+La que paga,US,iPhone,0,the great,The Great Hack,select,title_results,2022-07-20 14:42:27
+La que paga,US,iPhone,0,13,13TH,select,title_results,2022-07-17 21:50:35
+La que paga,US,iPhone,0,13,13TH,select,title_results,2022-07-17 15:39:14
+La que paga,US,iPhone,0,solo,14 Peaks: Nothing Is Impossible,select,suggestion_results,2022-07-13 14:30:25
+La que paga,US,iPhone,0,solo,Free Solo,select,suggestion_results,2022-07-13 14:30:17
+La que paga,US,iPhone,0,voyager,Voyager,select,suggestion_results,2022-07-11 22:43:30
+La que paga,US,iPhone,0,voyager,,select,title_results,2022-07-11 22:42:50
+La que paga,US,iPhone,0,jeopardy ,,select,suggestion_results,2022-07-06 02:06:42
+La que paga,US,iPhone,0,jeopardy ,,select,suggestion_results,2022-07-06 02:06:28
+La que paga,US,iPhone,0,jeopardy ,,select,suggestion_results,2022-07-06 02:06:17
+La que paga,US,iPhone,0,sorry,Sorry to Bother You,play,title_results,2022-06-20 20:06:23
+La que paga,US,iPhone,0,sorry,Sorry to Bother You,select,title_results,2022-06-20 20:06:18
+La que paga,US,iPhone,0,bill,"Monsters Inside: The 24 Faces of Billy Milligan: Limited Series: ""The Golden Age""",play,title_results,2022-05-22 04:18:39
+La que paga,US,iPhone,0,bill,,select,title_results,2022-05-22 04:18:20
+La que paga,US,iPhone,0,365,365 Days,select,title_results,2022-04-29 14:52:10
+La que paga,US,iPhone,0,mac and ,Mac & Devin Go to High School,select,suggestion_results,2022-04-02 04:21:09
+La que paga,US,iPhone,0,cheer,,select,title_results,2022-03-11 00:31:19
+La que paga,US,iPhone,0,chain,Texas Chainsaw Massacre,select,title_results,2022-02-20 06:11:21
+La que paga,US,iPhone,0,inais,"Inside Job: Part 1: ""Unpresidented""",play,title_results,2021-12-29 19:44:20
+La que paga,US,iPhone,0,inais,,select,title_results,2021-12-29 19:44:15
+La que paga,US,iPhone,0,the nightmare,The Nightmare Before Christmas,select,suggestion_results,2021-12-25 04:56:32
+La que paga,US,iPhone,0,chicag,"Chicago Party Aunt: Part 1: ""Chicago Party Aunt""",play,title_results,2021-12-24 02:55:46
+La que paga,US,iPhone,0,chicag,,select,title_results,2021-12-24 02:55:43
+La que paga,US,iPhone,0,,"Selling Tampa: Season 1: ""Here Today, Gone Tomorrow""",play,prequery_results,2021-12-24 02:21:36
+La que paga,US,iPhone,0,,,select,prequery_results,2021-12-24 02:21:25
+La que paga,US,iPhone,0,,,select,prequery_results,2021-12-24 02:21:19
+La que paga,US,HTML 5,0,selling tampa,"Selling Tampa: Season 1: ""When Agents Collide""",play,,2021-12-23 07:23:42
+La que paga,US,iPhone,0,great hac,The Great Hack,select,title_results,2021-12-16 02:26:30
+La que paga,US,iPhone,0,emily,,select,title_results,2021-12-09 15:45:49
+La que paga,US,iPhone,0,start,,select,title_results,2021-12-04 14:39:58
+La que paga,US,iPhone,0,dexter,,select,suggestion_results,2021-12-04 14:38:37
+La que paga,US,iPhone,0,buddha,,select,suggestion_results,2021-11-23 04:10:15
+La que paga,US,iPhone,0,buddha,The Buddha: The Story of Siddhartha,select,suggestion_results,2021-11-23 04:09:51
+La que paga,US,iPhone,0,14 ,14 Peaks: Nothing Is Impossible,select,title_results,2021-11-23 04:08:27
+La que paga,US,iPhone,0,somm,Uncorked,select,suggestion_results,2021-11-06 01:19:24
+La que paga,US,iPhone,0,somm,Somm,select,suggestion_results,2021-11-06 01:19:17
+La que paga,US,iPhone,0,chee,,select,title_results,2021-11-03 17:29:27
+La que paga,US,iPhone,0,start,,select,title_results,2021-10-29 06:15:58
+La que paga,US,iPhone,0,expl,"Explained: Season 3: ""Time""",play,title_results,2021-10-28 05:18:15
+La que paga,US,iPhone,0,expl,,select,title_results,2021-10-28 05:15:08
+La que paga,US,iPhone,0,bitcoin,Coded Bias,select,suggestion_results,2021-10-28 05:14:15
+La que paga,US,iPhone,0,bitcoin,The Rise and Rise of Bitcoin,select,suggestion_results,2021-10-28 05:07:09
+La que paga,US,iPhone,0,bitcoin,Banking on Bitcoin,select,suggestion_results,2021-10-28 05:04:11
+La que paga,US,iPhone,0,bitcoin,Coin Heist,select,title_results,2021-10-28 05:03:55
+La que paga,US,iPhone,0,13 ,,select,title_results,2021-09-12 02:53:13
+La que paga,US,iPhone,0,gossip,,select,title_results,2021-09-10 03:08:14
+La que paga,US,iPhone,0,ugly,,select,title_results,2021-09-01 03:14:04
+La que paga,US,iPhone,0,design,,select,title_results,2021-08-31 20:08:21
+La que paga,US,iPhone,0,design,,select,title_results,2021-08-31 20:08:14
+La que paga,US,iPhone,0,mote,,select,title_results,2021-08-28 18:26:32
+La que paga,US,iPhone,0,gre,"Grey's Anatomy: Season 1: ""A Hard Day's Night""",play,title_results,2021-08-11 19:16:56
+La que paga,US,iPhone,0,gre,,select,title_results,2021-08-11 19:16:51
+La que paga,US,iPhone,0,shrek,Puss in Boots,select,title_results,2021-08-07 21:34:21
+La que paga,US,iPhone,0,alaska,,select,suggestion_results,2021-08-06 14:37:41
+La que paga,US,iPhone,0,alaska,Alaska Is a Drag,select,title_results,2021-08-06 14:37:12
+La que paga,US,iPhone,0,dmt the ,Behind the Curve,select,suggestion_results,2021-08-05 04:53:05
+La que paga,US,iPhone,0,dmt the ,,select,suggestion_results,2021-08-05 04:52:48
+La que paga,US,iPhone,0,dmt the ,,select,suggestion_results,2021-08-05 04:52:31
+La que paga,US,iPhone,0,dmt the ,DMT: The Spirit Molecule,select,suggestion_results,2021-08-05 04:52:25
+La que paga,US,iPhone,0,twil,Twilight,play,title_results,2021-07-27 04:44:44
+La que paga,US,iPhone,0,twil,Twilight,select,title_results,2021-07-27 04:44:41
+La que paga,US,iPhone,0,,,select,prequery_results,2021-07-24 21:05:12
+La que paga,US,iPhone,0,,,select,prequery_results,2021-07-24 20:54:00
+La que paga,US,iPhone,0,sex l,"Sex/Life: Season 1: ""Empire State of Mind""",play,title_results,2021-07-18 17:55:43
+La que paga,US,iPhone,0,sex l,,select,title_results,2021-07-18 17:55:37
+La que paga,US,iPhone,0,cooki,,select,title_results,2021-07-01 23:00:52
+La que paga,US,iPhone,0,cooki,,select,title_results,2021-07-01 23:00:45
+La que paga,US,Android Phone,0,pose,,select,prequery_results,2021-06-27 04:10:00
+La que paga,US,iPhone,0,chopped,,select,suggestion_results,2021-06-22 03:20:39
+La que paga,US,iPhone,0,chopped,,select,suggestion_results,2021-06-22 03:20:37
+La que paga,US,iPhone,0,star,"StartUp: Season 3: ""Sweat Equity""",play,,2021-06-01 04:11:12
+La que paga,US,iPhone,0,star,,select,,2021-06-01 04:11:04
+La que paga,US,Android Phone,0,start up,,select,,2021-05-28 19:11:27
+La que paga,US,Android Phone,0,start up,,select,,2021-05-28 19:11:23
+La que paga,US,Android Phone,0,start up,,select,,2021-05-28 19:11:01
+La que paga,MX,iPad,0,anne,,select,,2021-05-25 04:58:09
+La que paga,US,iPhone,0,flowe,"The House of Flowers: Season 3: ""GERBERA (Symb. first love)""",play,,2021-05-23 03:05:01
+La que paga,US,iPhone,0,flowe,,select,,2021-05-23 03:04:57
+La que paga,US,iPhone,0,,"StartUp: Season 1: ""Seed Money""",play,,2021-05-18 15:04:07
+La que paga,US,iPhone,0,,,select,,2021-05-18 15:04:04
+La que paga,US,iPhone,0,santa cl,"Santa Clarita Diet: Season 1: ""So Then a Bat or a Monkey""",play,,2021-04-11 21:07:34
+La que paga,US,iPhone,0,santa cl,,select,,2021-04-11 21:07:29
+La que paga,US,iPhone,0,real est,"Million Dollar Beach House: Season 1: ""Selling Season""",play,,2021-04-06 01:29:03
+La que paga,US,iPhone,0,real est,,select,,2021-04-06 01:28:59
+La que paga,US,iPhone,0,real est,"Selling Sunset: Season 3: ""Back to Business""",play,,2021-04-06 01:27:31
+La que paga,US,iPhone,0,real est,,select,,2021-04-06 01:26:17
+La que paga,US,iPhone,0,money,"Money Heist: Part 1: ""Episode 1""",play,,2021-04-04 07:33:15
+La que paga,US,iPhone,0,money,"Money Heist: Part 1: ""Episode 1""",play,,2021-04-04 07:32:10
+La que paga,US,iPhone,0,money,,select,,2021-04-04 07:32:06
+La que paga,US,iPhone,0,money,,select,,2021-04-04 07:32:02
+La que paga,US,iPhone,0,money h,,select,,2021-04-04 07:10:28
+La que paga,US,iPhone,0,la re,,select,,2021-03-30 01:43:55
+La que paga,US,iPhone,0,stripper,Liberated: The New Sexual Revolution,play,,2021-03-27 18:05:22
+La que paga,US,iPhone,0,stripper,Liberated: The New Sexual Revolution,select,,2021-03-27 18:05:16
+La que paga,US,iPhone,0,stripper,Hot Girls Wanted,select,,2021-03-27 18:04:54
+La que paga,US,iPhone,0,stripper,The After Party,select,,2021-03-27 18:04:42
+La que paga,US,iPhone,0,love isl,,select,,2021-03-27 18:04:23
+La que paga,US,iPad,0,norse,"Norsemen: Season 2: ""East vs West""",play,,2021-03-19 01:54:58
+La que paga,US,iPad,0,norse,,select,,2021-03-19 01:51:35
+La que paga,US,iPad,0,norse,,select,,2021-03-19 01:49:24
+La que paga,US,iPad,0,mochi,,select,,2021-03-19 01:49:06
+La que paga,US,iPhone,0,yoga,"Ram Dass, Going Home",select,,2021-02-28 03:50:10
+La que paga,US,iPhone,0,plant medicine,The Truth About Alcohol,play,,2021-01-22 22:38:50
+La que paga,US,iPhone,0,plant medicine,The Truth About Alcohol,select,,2021-01-22 22:38:46
+La que paga,US,iPhone,0,plant medicine,Human Nature,select,,2021-01-22 22:38:33
+La que paga,US,iPhone,0,plant medicine,Heal,select,,2021-01-22 22:38:23
+La que paga,US,iPhone,0,dark t,,select,,2021-01-10 04:20:59
+La que paga,US,iPhone,0,16 and ,,select,,2021-01-09 02:39:35
+La que paga,US,Streaming Stick,0,j,,play,,2021-01-07 01:57:51
+La que paga,US,Streaming Stick,0,j,,select,,2021-01-07 01:57:46
+La que paga,US,Streaming Stick,0,pa,,select,,2020-12-20 01:39:57
+La que paga,US,iPad,0,itaewon,,select,,2020-12-11 01:49:52
+La que paga,US,Streaming Stick,0,itae,,add,,2020-12-11 01:22:20
+La que paga,US,Streaming Stick,0,itae,,play,,2020-12-11 01:22:19
+La que paga,US,Streaming Stick,0,itae,,select,,2020-12-11 01:22:16
+La que paga,US,Streaming Stick,0,itae,,add,,2020-12-11 01:22:11
+La que paga,US,Streaming Stick,0,itae,,play,,2020-12-11 01:22:09
+La que paga,US,Streaming Stick,0,itae,,select,,2020-12-11 01:22:06
+La que paga,US,iPhone,0,crip ,Crip Camp: A Disability Revolution,play,,2020-12-07 22:34:30
+La que paga,US,iPhone,0,crip ,Crip Camp: A Disability Revolution,select,,2020-12-07 22:34:27
+La que paga,US,Streaming Stick,0,je,,play,,2020-11-09 02:52:11
+La que paga,US,Streaming Stick,0,je,,select,,2020-11-09 02:52:07
+La que paga,US,Streaming Stick,0,tulum,Magnetic,play,,2020-11-07 17:25:14
+La que paga,US,Streaming Stick,0,tulum,Magnetic,select,,2020-11-07 17:25:11
+La que paga,US,Streaming Stick,0,tulum,Yucatán,play,,2020-11-07 17:24:50
+La que paga,US,Streaming Stick,0,tulum,Yucatán,select,,2020-11-07 17:24:46
+La que paga,US,iPad,0,café society ,,select,,2020-11-02 00:33:33
+La que paga,US,iPhone,0,chica,The Trial of the Chicago 7,play,,2020-10-20 20:26:26
+La que paga,US,iPhone,0,chica,The Trial of the Chicago 7,select,,2020-10-20 20:26:24
+La que paga,US,iPhone,0,rebelde ,"Elite: Season 1: ""Desire""",play,,2020-10-14 20:53:45
+La que paga,US,iPhone,0,rebelde ,,select,,2020-10-14 20:53:34
+La que paga,US,iPhone,0,rebelde ,,select,,2020-10-14 20:53:05
+La que paga,US,Streaming Stick,0,g,,play,,2020-10-08 06:08:33
+La que paga,US,Streaming Stick,0,g,,play,,2020-10-08 06:07:47
+La que paga,US,Streaming Stick,0,g,,select,,2020-10-08 06:07:43
+La que paga,MX,Android Phone,0,budda,The Legend of Buddha,select,,2020-09-24 01:54:45
+La que paga,US,iPad,0,goop,Heal,select,,2020-09-09 12:24:06
+La que paga,US,iPad,0,goop,,select,,2020-09-09 12:23:47
+La que paga,US,HTML 5,0,parks,,play,,2020-09-08 04:37:17
+La que paga,US,iPad,0,oscuro,"Dark Desire: Season 1: ""Two Truths and One Lie""",play,,2020-09-05 05:34:18
+La que paga,US,iPad,0,oscuro,,select,,2020-09-04 19:43:47
+La que paga,US,iPhone,0,sham,"Shameless (U.S.): Season 10: ""We Few, We Lucky Few, We Band of Gallaghers!""",play,,2020-07-26 18:18:28
+La que paga,US,iPhone,0,sham,,select,,2020-07-26 18:18:24
+La que paga,US,HTML 5,0,the off,,play,,2020-07-08 01:32:09
+La que paga,US,HTML 5,0,the off,,select,,2020-07-08 01:32:05
+La que paga,US,iPhone,0,brea,"Breaking Bad: Season 1: ""Pilot""",play,,2020-07-05 02:32:32
+La que paga,US,iPhone,0,brea,,select,,2020-07-05 02:32:29
+La que paga,US,iPhone,0,somebo,"Somebody Feed Phil: Season 3: ""Chicago""",play,,2020-07-02 16:10:15
+La que paga,US,iPhone,0,somebo,,select,,2020-07-02 16:10:05
+La que paga,US,iPhone,0,park,"Parks and Recreation: Season 7: ""Donna & Joe""",play,,2020-07-01 04:02:01
+La que paga,US,iPhone,0,park,,select,,2020-07-01 04:01:44
+La que paga,US,iPhone,0,tacos,,select,,2020-06-28 04:21:48
+La que paga,US,iPhone,0,tacos,,select,,2020-06-28 04:21:14
+La que paga,US,iPhone,0,yoga ,On Yoga: The Architecture of Peace,add,,2020-06-20 17:52:04
+La que paga,US,iPhone,0,yoga ,On Yoga: The Architecture of Peace,select,,2020-06-20 17:52:01
+La que paga,US,iPhone,0,yoga ,On Yoga: The Architecture of Peace,select,,2020-06-20 17:50:36
+La que paga,US,HTML 5,0,13,13TH,play,,2020-06-01 01:51:25
+La que paga,US,HTML 5,0,13,13TH,play,,2020-05-31 23:23:48
+La que paga,US,HTML 5,0,13,13TH,select,,2020-05-31 23:23:45
+La que paga,US,HTML 5,0,patriot,,play,,2020-05-30 23:37:33
+La que paga,US,HTML 5,0,enter the void,Love,play,,2020-05-17 03:36:28
+La que paga,US,Streaming Stick,0,the not,Dear John,select,,
+La que paga,US,Streaming Stick,0,the not,Dear John,play,,
+La que paga,US,HTML 5,0,goop,,play,,
+La que paga,US,HTML 5,0,goop,,play,,
+La que paga,MX,Android Phone,0,buddha,The Buddha: The Story of Siddhartha,select,,
+La que paga,MX,Android Phone,0,buddha,Little Buddha,select,,
+La que paga,US,iPhone,0,kimm,,select,,
+La que paga,US,HTML 5,0,ugly delicious,,play,,
+La que paga,US,iPhone,0,avatar,,select,,
+La que paga,US,HTML 5,0,goop,,select,,
+La que paga,US,iPhone,0,goop,,select,,
+La que paga,US,Streaming Stick,0,the notebook,The Notebook,play,,
+La que paga,US,iPhone,0,self,,select,,
+La que paga,US,iPhone,0,dmt the spi,DMT: The Spirit Molecule,select,,
+La que paga,US,HTML 5,0,ugly delicious,,select,,
+La que paga,US,HTML 5,0,pokemon ,Pokémon: Mewtwo Strikes Back - Evolution,play,,
+La que paga,US,Streaming Stick,0,the notebook,The Notebook,select,,
+El amigo de la que paga,US,Smart TV,0,e,Extraction,play,title_results,2023-06-29 06:13:56
+El amigo de la que paga,US,Smart TV,0,e,Extraction,select,title_results,2023-06-29 06:13:52
+El amigo de la que paga,US,iPhone,0,,,play,prequery_results,2023-04-29 17:26:16
+El amigo de la que paga,US,iPhone,0,,,select,prequery_results,2023-04-29 17:26:14
+El amigo de la que paga,US,iPhone,0,,,play,prequery_results,2023-04-29 17:23:13
+El amigo de la que paga,US,iPhone,0,,,select,prequery_results,2023-04-29 17:23:10
+El amigo de la que paga,US,Smart TV,0,som,,play,title_results,2023-04-12 03:48:06
+El amigo de la que paga,US,Smart TV,0,som,,select,title_results,2023-04-12 03:47:53
+El amigo de la que paga,US,iPhone,0,trial 4,,select,title_results,2023-03-31 04:45:02
+El amigo de la que paga,US,Smart TV,0,hung,The Hunger Games: Mockingjay - Part 2,play,title_results,2023-03-25 18:41:40
+El amigo de la que paga,US,Smart TV,0,hung,The Hunger Games: Mockingjay - Part 2,select,title_results,2023-03-25 18:41:38
+El amigo de la que paga,US,Smart TV,0,,The Hunger Games,play,prequery_results,2023-03-19 22:42:37
+El amigo de la que paga,US,Smart TV,0,,The Hunger Games,select,prequery_results,2023-03-19 22:42:35
+El amigo de la que paga,US,Smart TV,0,je,,play,title_results,2023-03-09 02:13:50
+El amigo de la que paga,US,Smart TV,0,je,,select,title_results,2023-03-09 02:13:48
+El amigo de la que paga,US,Smart TV,0,rey,,play,title_results,2023-02-24 14:36:29
+El amigo de la que paga,US,Smart TV,0,rey,,select,title_results,2023-02-24 14:36:27
+El amigo de la que paga,US,Xbox One,0,geo,George Lopez: Why You Crying?,play,title_results,2023-02-23 05:03:17
+El amigo de la que paga,US,Xbox One,0,geo,George Lopez: Why You Crying?,select,title_results,2023-02-23 05:03:14
+El amigo de la que paga,US,Smart TV,0,,The Founder,play,prequery_results,2023-02-23 01:37:20
+El amigo de la que paga,US,Smart TV,0,,The Founder,select,prequery_results,2023-02-23 01:37:18
+El amigo de la que paga,US,Smart TV,0,,The Founder,play,prequery_results,2023-02-17 08:53:16
+El amigo de la que paga,US,Smart TV,0,,The Founder,select,prequery_results,2023-02-17 08:53:13
+El amigo de la que paga,US,Smart TV,0,last,,play,title_results,2023-02-11 00:55:22
+El amigo de la que paga,US,Smart TV,0,last,,play,title_results,2023-02-11 00:55:22
+El amigo de la que paga,US,Smart TV,0,last,,select,title_results,2023-02-11 00:55:19
+El amigo de la que paga,US,Smart TV,0,last,,select,title_results,2023-02-11 00:55:19
+El amigo de la que paga,US,Smart TV,0,adam,ADAM SANDLER 100% FRESH,play,title_results,2023-02-05 23:14:02
+El amigo de la que paga,US,Smart TV,0,adam,ADAM SANDLER 100% FRESH,play,title_results,2023-02-05 23:14:02
+El amigo de la que paga,US,Smart TV,0,adam,ADAM SANDLER 100% FRESH,select,title_results,2023-02-05 23:14:00
+El amigo de la que paga,US,Smart TV,0,adam,ADAM SANDLER 100% FRESH,select,title_results,2023-02-05 23:14:00
+El amigo de la que paga,US,Smart TV,0,bill,,add,title_results,2023-02-02 16:34:28
+El amigo de la que paga,US,Smart TV,0,bill,,select,title_results,2023-02-02 16:31:23
+El amigo de la que paga,US,Smart TV,0,bill,,select,title_results,2023-02-02 16:31:23
+El amigo de la que paga,US,Smart TV,0,you,You People,play,title_results,2023-01-29 05:06:29
+El amigo de la que paga,US,Smart TV,0,you,You People,play,title_results,2023-01-29 05:06:29
+El amigo de la que paga,US,Smart TV,0,you,You People,play,title_results,2023-01-29 05:03:20
+El amigo de la que paga,US,Smart TV,0,you,You People,play,title_results,2023-01-29 05:03:20
+El amigo de la que paga,US,Smart TV,0,you,You People,play,title_results,2023-01-29 03:56:25
+El amigo de la que paga,US,Smart TV,0,you,You People,play,title_results,2023-01-29 03:56:25
+El amigo de la que paga,US,Smart TV,0,you,You People,select,title_results,2023-01-29 03:56:22
+El amigo de la que paga,US,Smart TV,0,you,You People,select,title_results,2023-01-29 03:56:22
+El amigo de la que paga,US,iPhone,0,irishm,The Irishman,select,title_results,2022-12-10 21:38:02
+El amigo de la que paga,US,iPhone,0,irish,The Irishman,play,title_results,2022-12-10 17:05:07
+El amigo de la que paga,US,iPhone,0,irish,The Irishman,select,title_results,2022-12-10 17:05:04
+El amigo de la que paga,US,iPhone,0,someb,,select,title_results,2022-11-30 01:27:45
+El amigo de la que paga,US,Xbox One,0,ad,The Addams Family,play,title_results,2022-11-24 06:59:20
+El amigo de la que paga,US,Xbox One,0,ad,The Addams Family,play,title_results,2022-11-24 06:59:20
+El amigo de la que paga,US,Xbox One,0,ad,The Addams Family,select,title_results,2022-11-24 06:59:14
+El amigo de la que paga,US,Xbox One,0,ad,The Addams Family,select,title_results,2022-11-24 06:59:14
+El amigo de la que paga,US,XBOX SS,0,russ,,play,title_results,2022-11-13 02:13:22
+El amigo de la que paga,US,XBOX SS,0,russ,,play,title_results,2022-11-13 02:13:22
+El amigo de la que paga,US,XBOX SS,0,russ,,select,title_results,2022-11-13 02:13:20
+El amigo de la que paga,US,XBOX SS,0,russ,,select,title_results,2022-11-13 02:13:20
+El amigo de la que paga,US,XBOX SS,0,ceci,,play,title_results,2022-11-07 02:46:14
+El amigo de la que paga,US,XBOX SS,0,ceci,,play,title_results,2022-11-07 02:46:14
+El amigo de la que paga,US,XBOX SS,0,ceci,,select,title_results,2022-11-07 02:46:13
+El amigo de la que paga,US,XBOX SS,0,ceci,,select,title_results,2022-11-07 02:46:13
+El amigo de la que paga,US,Smart TV,0,crime,,play,title_results,2022-10-16 22:32:17
+El amigo de la que paga,US,Smart TV,0,crime,,play,title_results,2022-10-16 22:32:17
+El amigo de la que paga,US,Smart TV,0,crime,,select,title_results,2022-10-16 22:32:14
+El amigo de la que paga,US,Smart TV,0,crime,,select,title_results,2022-10-16 22:32:14
+El amigo de la que paga,US,Smart TV,0,luc,Luckiest Girl Alive,play,title_results,2022-10-16 22:28:22
+El amigo de la que paga,US,Smart TV,0,luc,Luckiest Girl Alive,play,title_results,2022-10-16 22:28:22
+El amigo de la que paga,US,Smart TV,0,luc,Luckiest Girl Alive,select,title_results,2022-10-16 22:28:19
+El amigo de la que paga,US,Smart TV,0,luc,Luckiest Girl Alive,select,title_results,2022-10-16 22:28:19
+El amigo de la que paga,US,Xbox One,0,chris ,,select,suggestion_results,2022-10-16 03:45:55
+El amigo de la que paga,US,Xbox One,0,chris ,,select,suggestion_results,2022-10-16 03:45:55
+El amigo de la que paga,US,MVPD STB,0,arm,Army of the Dead,play,title_results,2022-10-14 04:07:45
+El amigo de la que paga,US,MVPD STB,0,arm,Army of the Dead,play,title_results,2022-10-14 04:07:45
+El amigo de la que paga,US,MVPD STB,0,arm,Army of the Dead,select,title_results,2022-10-14 04:07:40
+El amigo de la que paga,US,MVPD STB,0,arm,Army of the Dead,select,title_results,2022-10-14 04:07:40
+El amigo de la que paga,US,Smart TV,0,arm,Army of the Dead,select,title_results,2022-10-14 04:07:03
+El amigo de la que paga,US,Smart TV,0,arm,Army of the Dead,select,title_results,2022-10-14 04:07:03
+El amigo de la que paga,US,Xbox One,0,spani,The Perfect Family,play,suggestion_results,2022-08-26 22:37:31
+El amigo de la que paga,US,Xbox One,0,spani,The Perfect Family,select,suggestion_results,2022-08-26 22:37:29
+El amigo de la que paga,US,Xbox One,0,spani,,select,suggestion_results,2022-08-26 22:37:09
+El amigo de la que paga,US,Xbox One,0,spani,,select,suggestion_results,2022-08-26 22:37:09
+El amigo de la que paga,US,Streaming Stick,0,365,365 Days: This Day,play,title_results,2022-05-13 06:52:52
+El amigo de la que paga,US,Streaming Stick,0,365,365 Days: This Day,select,title_results,2022-05-13 06:52:49
+El amigo de la que paga,US,Streaming Stick,0,365,365 Days,play,title_results,2022-05-13 05:35:01
+El amigo de la que paga,US,Streaming Stick,0,365,365 Days,play,title_results,2022-05-13 04:46:59
+El amigo de la que paga,US,Streaming Stick,0,365,365 Days,select,title_results,2022-05-13 04:46:56
+El amigo de la que paga,US,Streaming Stick,0,365,365 Days: This Day,select,title_results,2022-05-13 04:46:51
+El amigo de la que paga,US,HTML 5,0,yop,Top Gun,play,,2022-03-24 21:17:22
+El amigo de la que paga,US,Xbox One,0,yes,John & Yoko: Above Us Only Sky,play,suggestion_results,2022-01-28 19:14:39
+El amigo de la que paga,US,Xbox One,0,yes,John & Yoko: Above Us Only Sky,select,suggestion_results,2022-01-28 19:14:37
+El amigo de la que paga,US,Xbox One,0,yes,Yesterday,select,suggestion_results,2022-01-28 19:14:36
+La tia de la que paga,MX,Smart TV,0,el cump,Grandma's Birthday,play,title_results,2023-07-19 22:39:25
+La tia de la que paga,MX,Smart TV,0,el cump,Grandma's Birthday,select,title_results,2023-07-19 22:39:19
+La tia de la que paga,MX,Android Phone,0,,"Sweet Magnolias: Season 2: ""Dear Heart""",play,prequery_results,2023-07-09 17:58:12
+La tia de la que paga,MX,Android Phone,0,,"Sweet Magnolias: Season 1: ""Pour It Out""",play,prequery_results,2023-07-09 16:12:43
+La tia de la que paga,MX,Android Phone,0,,,select,prequery_results,2023-07-09 16:12:30
+La tia de la que paga,MX,Android Phone,0,extraction,Extraction,play,title_results,2023-07-06 00:59:44
+La tia de la que paga,MX,Android Phone,0,extraction,Extraction,select,title_results,2023-07-06 00:59:21
+La tia de la que paga,MX,Android Phone,0,alta,,select,title_results,2023-07-03 02:51:57
+La tia de la que paga,MX,Smart TV,0,,,play,prequery_results,2023-06-29 04:33:14
+La tia de la que paga,MX,Smart TV,0,,,select,prequery_results,2023-06-29 04:33:07
+La tia de la que paga,MX,Smart TV,0,per,,play,title_results,2023-06-28 20:55:05
+La tia de la que paga,MX,Smart TV,0,per,,select,title_results,2023-06-28 20:54:59
+La tia de la que paga,MX,Android Phone,0,seve,,select,title_results,2023-06-26 22:08:11
+La tia de la que paga,MX,Android Phone,0,black mirror ,"Black Mirror: Season 6: ""Joan Is Awful""",play,title_results,2023-06-20 22:10:34
+La tia de la que paga,MX,Android Phone,0,black mirror ,,select,title_results,2023-06-20 22:10:25
+La tia de la que paga,MX,Android Phone,0,,Gifted Hands: The Ben Carson Story,select,prequery_results,2023-06-16 02:01:42
+La tia de la que paga,MX,Android Phone,0,,Catch Me If You Can,select,prequery_results,2023-06-16 02:01:37
+La tia de la que paga,MX,Android Phone,0,,The Deep End of the Ocean,play,prequery_results,2023-06-16 00:50:43
+La tia de la que paga,MX,Android Phone,0,,The Deep End of the Ocean,select,prequery_results,2023-06-16 00:50:39
+La tia de la que paga,MX,Android Phone,0,,A Beautiful Life,select,prequery_results,2023-06-16 00:42:14
+La tia de la que paga,MX,Android Phone,0,,Charlie's Angels,play,prequery_results,2023-06-10 07:02:25
+La tia de la que paga,MX,Android Phone,0,los ,Charlie's Angels,play,title_results,2023-06-10 00:46:14
+La tia de la que paga,MX,Android Phone,0,los ,Charlie's Angels,play,title_results,2023-06-10 00:03:41
+La tia de la que paga,MX,Android Phone,0,los ,Charlie's Angels,select,title_results,2023-06-10 00:03:34
+La tia de la que paga,MX,Android Phone,0,los ,Charlie's Angels: Full Throttle,select,title_results,2023-06-10 00:03:19
+La tia de la que paga,MX,Android Phone,0,los ,Smurfs: The Lost Village,select,title_results,2023-06-10 00:01:43
+La tia de la que paga,MX,Android Phone,0,los ,The Smurfs,select,title_results,2023-06-10 00:01:24
+La tia de la que paga,MX,Android Phone,0,los ,,select,title_results,2023-06-10 00:00:58
+La tia de la que paga,MX,Android Phone,0,los ,,select,title_results,2023-06-09 23:47:41
+La tia de la que paga,MX,Android Phone,0,the beautiful life,A Beautiful Life,play,title_results,2023-06-07 00:04:41
+La tia de la que paga,MX,Android Phone,0,the beautiful life,A Beautiful Life,select,title_results,2023-06-07 00:04:24
+La tia de la que paga,MX,Android Tablet,0,,Queens on the Run,play,prequery_results,2023-04-29 16:57:27
+La tia de la que paga,MX,Android Tablet,0,,Queens on the Run,select,prequery_results,2023-04-29 16:57:24
+La tia de la que paga,MX,Android Phone,0,,Queens on the Run,play,prequery_results,2023-04-29 16:02:16
+La tia de la que paga,MX,Android Phone,0,,Queens on the Run,select,prequery_results,2023-04-29 16:02:12
+La tia de la que paga,MX,Android Phone,0,fuga,Queens on the Run,play,title_results,2023-04-29 14:49:51
+La tia de la que paga,MX,Android Phone,0,fuga,Queens on the Run,select,title_results,2023-04-29 14:49:43
+La tia de la que paga,MX,Android Tablet,0,a lo,The Edge of Seventeen,play,title_results,2023-04-14 05:15:39
+La tia de la que paga,MX,Android Tablet,0,a lo,The Edge of Seventeen,select,title_results,2023-04-14 05:15:34
+La tia de la que paga,MX,Smart TV,0,,Faraway,play,prequery_results,2023-03-20 06:16:58
+La tia de la que paga,MX,Smart TV,0,,Faraway,select,prequery_results,2023-03-20 06:16:53
+La tia de la que paga,MX,Smart TV,0,,Perfect Strangers,play,prequery_results,2023-03-20 06:16:39
+La tia de la que paga,MX,Smart TV,0,,Perfect Strangers,select,prequery_results,2023-03-20 06:16:33
+La tia de la que paga,MX,Android Tablet,0,fara,Faraway,play,title_results,2023-03-20 01:16:06
+La tia de la que paga,MX,Android Tablet,0,fara,Faraway,select,title_results,2023-03-20 01:15:52
+La tia de la que paga,MX,Android Phone,0,su,,select,title_results,2023-03-18 20:21:34
+La tia de la que paga,MX,Android Phone,0,,Miracle in Cell No. 7,play,prequery_results,2023-03-18 19:34:08
+La tia de la que paga,MX,Android Phone,0,,Miracle in Cell No. 7,select,prequery_results,2023-03-18 19:34:05
+La tia de la que paga,MX,Smart TV,0,mil,Miracle in Cell No. 7,play,title_results,2023-03-11 14:18:10
+La tia de la que paga,MX,Smart TV,0,mil,Miracle in Cell No. 7,select,title_results,2023-03-11 14:18:05
+La tia de la que paga,MX,Smart TV,0,una esposa,Just Go With It,play,title_results,2023-02-13 18:01:23
+La tia de la que paga,MX,Smart TV,0,una esposa,Just Go With It,play,title_results,2023-02-13 18:01:23
+La tia de la que paga,MX,Smart TV,0,una esposa,Just Go With It,select,title_results,2023-02-13 18:01:14
+La tia de la que paga,MX,Smart TV,0,una esposa,Just Go With It,select,title_results,2023-02-13 18:01:14
+La tia de la que paga,MX,Smart TV,0,cromos,,play,title_results,2023-02-12 14:41:47
+La tia de la que paga,MX,Smart TV,0,cromos,,play,title_results,2023-02-12 14:41:47
+La tia de la que paga,MX,Smart TV,0,cromos,,select,title_results,2023-02-12 14:41:43
+La tia de la que paga,MX,Smart TV,0,cromos,,select,title_results,2023-02-12 14:41:43
+La tia de la que paga,MX,Android Phone,0,quédate a mi lado ,Gifted Hands: The Ben Carson Story,play,title_results,2023-01-29 22:37:31
+La tia de la que paga,MX,Android Phone,0,quédate a mi lado ,Gifted Hands: The Ben Carson Story,select,title_results,2023-01-29 22:37:19
+La tia de la que paga,MX,Android Phone,0,mariposa verde,Stepmom,select,title_results,2023-01-29 22:33:09
+La tia de la que paga,MX,Android Phone,0,mariposa verde,Stepmom,select,title_results,2023-01-29 22:33:08
+La tia de la que paga,MX,Android Phone,0,nadadoras,The Swimmers,play,title_results,2023-01-12 04:44:08
+La tia de la que paga,MX,Android Phone,0,nadadoras,The Swimmers,select,title_results,2023-01-12 04:44:02
+La tia de la que paga,MX,Android Phone,0,mirada de ,Angel Eyes,play,title_results,2023-01-11 19:34:35
+La tia de la que paga,MX,Android Phone,0,mirada de ,Angel Eyes,select,title_results,2023-01-11 19:34:21
+La tia de la que paga,MX,Android Phone,0,mirada de ,Angel Eyes,select,title_results,2023-01-11 19:34:08
+La tia de la que paga,MX,Smart TV,0,eri,Primal Fear,play,suggestion_results,2023-01-11 05:06:44
+La tia de la que paga,MX,Smart TV,0,eri,Primal Fear,select,suggestion_results,2023-01-11 05:06:38
+La tia de la que paga,MX,Smart TV,0,eri,Notting Hill,play,suggestion_results,2023-01-10 20:26:33
+La tia de la que paga,MX,Smart TV,0,eri,Notting Hill,select,suggestion_results,2023-01-10 20:26:24
+La tia de la que paga,MX,Smart TV,0,eri,Erin Brockovich,select,suggestion_results,2023-01-10 20:26:06
+La tia de la que paga,MX,Smart TV,0,eri,Erin Brockovich,select,suggestion_results,2023-01-10 20:26:06
+La tia de la que paga,MX,Smart TV,0,jul,,select,suggestion_results,2023-01-10 20:25:30
+La tia de la que paga,MX,Smart TV,0,jul,,select,suggestion_results,2023-01-10 20:25:30
+La tia de la que paga,MX,Smart TV,0,jul,,select,suggestion_results,2023-01-10 20:25:08
+La tia de la que paga,MX,Smart TV,0,jul,,select,suggestion_results,2023-01-10 20:25:08
+La tia de la que paga,MX,Android Phone,0,,Angel Eyes,play,prequery_results,2023-01-09 05:19:29
+La tia de la que paga,MX,Android Phone,0,,Angel Eyes,select,prequery_results,2023-01-09 05:19:23
+La tia de la que paga,MX,Android Phone,0,cale,"Kaleidoscope: Limited Series: ""Black""",play,title_results,2023-01-08 03:12:09
+La tia de la que paga,MX,Android Phone,0,cale,,select,title_results,2023-01-08 03:12:04
+La tia de la que paga,MX,Android Phone,0,mirada,Angel Eyes,play,title_results,2023-01-07 08:40:42
+La tia de la que paga,MX,Android Phone,0,mirada,Angel Eyes,play,title_results,2023-01-07 08:34:30
+La tia de la que paga,MX,Android Phone,0,mirada,Angel Eyes,select,title_results,2023-01-07 08:09:47
+La tia de la que paga,MX,Smart TV,0,j,Jumanji,play,title_results,2023-01-02 17:15:31
+La tia de la que paga,MX,Smart TV,0,j,Jumanji,play,title_results,2023-01-02 17:15:31
+La tia de la que paga,MX,Smart TV,0,j,Jumanji,select,title_results,2023-01-02 17:15:25
+La tia de la que paga,MX,Smart TV,0,j,Jumanji,select,title_results,2023-01-02 17:15:25
+La tia de la que paga,MX,Smart TV,0,me,,play,title_results,2022-12-30 06:33:48
+La tia de la que paga,MX,Smart TV,0,me,,play,title_results,2022-12-30 06:33:48
+La tia de la que paga,MX,Smart TV,0,,Klaus,play,prequery_results,2022-12-30 06:13:47
+La tia de la que paga,MX,Smart TV,0,,Klaus,select,prequery_results,2022-12-30 06:13:40
+La tia de la que paga,MX,Smart TV,0,me,,play,title_results,2022-12-30 05:35:45
+La tia de la que paga,MX,Smart TV,0,me,,play,title_results,2022-12-30 05:35:45
+La tia de la que paga,MX,Smart TV,0,me,,select,title_results,2022-12-30 05:35:33
+La tia de la que paga,MX,Smart TV,0,me,,select,title_results,2022-12-30 05:35:33
+La tia de la que paga,MX,Smart TV,0,me,,play,title_results,2022-12-30 04:25:07
+La tia de la que paga,MX,Smart TV,0,me,,play,title_results,2022-12-30 04:25:07
+La tia de la que paga,MX,Smart TV,0,me,,select,title_results,2022-12-30 04:25:02
+La tia de la que paga,MX,Smart TV,0,me,,select,title_results,2022-12-30 04:25:02
+La tia de la que paga,MX,Smart TV,0,peliculas mex,Perfect Strangers,play,title_results,2022-12-27 05:51:15
+La tia de la que paga,MX,Smart TV,0,peliculas mex,Perfect Strangers,play,title_results,2022-12-27 05:51:15
+La tia de la que paga,MX,Smart TV,0,peliculas mex,Perfect Strangers,select,title_results,2022-12-27 05:51:07
+La tia de la que paga,MX,Smart TV,0,peliculas mex,Perfect Strangers,select,title_results,2022-12-27 05:51:07
+La tia de la que paga,MX,Smart TV,0,kevi,,select,suggestion_results,2022-12-27 05:48:36
+La tia de la que paga,MX,Smart TV,0,kevi,,select,suggestion_results,2022-12-27 05:48:36
+La tia de la que paga,MX,Smart TV,0,mel,,select,suggestion_results,2022-12-27 05:47:48
+La tia de la que paga,MX,Smart TV,0,mel,,select,suggestion_results,2022-12-27 05:47:48
+La tia de la que paga,MX,Smart TV,0,mel,,select,suggestion_results,2022-12-27 05:47:03
+La tia de la que paga,MX,Smart TV,0,mel,,select,suggestion_results,2022-12-27 05:47:03
+La tia de la que paga,MX,Smart TV,0,mel,,select,suggestion_results,2022-12-27 05:46:50
+La tia de la que paga,MX,Smart TV,0,mel,,select,suggestion_results,2022-12-27 05:46:50
+La tia de la que paga,MX,Android Phone,0,river,,select,title_results,2022-12-25 04:35:22
+La tia de la que paga,MX,Android Phone,0,dsr,"Dark: Season 1: ""Secrets""",play,title_results,2022-12-25 04:32:50
+La tia de la que paga,MX,Android Phone,0,dsr,,select,title_results,2022-12-25 04:32:45
+La tia de la que paga,MX,Smart TV,0,m,,play,title_results,2022-12-22 02:27:15
+La tia de la que paga,MX,Smart TV,0,m,,play,title_results,2022-12-22 02:27:15
+La tia de la que paga,MX,Smart TV,0,m,,select,title_results,2022-12-22 02:26:44
+La tia de la que paga,MX,Smart TV,0,m,,select,title_results,2022-12-22 02:26:44
+La tia de la que paga,MX,Smart TV,0,m,,play,title_results,2022-12-22 00:40:05
+La tia de la que paga,MX,Smart TV,0,m,,play,title_results,2022-12-22 00:40:05
+La tia de la que paga,MX,Smart TV,0,m,,select,title_results,2022-12-22 00:39:44
+La tia de la que paga,MX,Smart TV,0,m,,select,title_results,2022-12-22 00:39:44
+La tia de la que paga,MX,Android Phone,0,the mule,Escape from Alcatraz,select,title_results,2022-12-17 00:46:23
+La tia de la que paga,MX,Android Phone,0,sings,,select,title_results,2022-12-17 00:45:50
+La tia de la que paga,MX,Android Phone,0,sings,,select,title_results,2022-12-17 00:45:49
+La tia de la que paga,MX,Android Phone,0,sings,,select,title_results,2022-12-17 00:45:46
+La tia de la que paga,MX,Android Phone,0,not,Notting Hill,play,title_results,2022-12-16 15:20:57
+La tia de la que paga,MX,Android Phone,0,not,Notting Hill,select,title_results,2022-12-16 15:20:55
+La tia de la que paga,MX,Android Phone,0,not,Notting Hill,select,title_results,2022-12-16 12:55:26
+La tia de la que paga,MX,Android Phone,0,,Guillermo del Toro’s Pinocchio,select,prequery_results,2022-12-16 12:53:30
+La tia de la que paga,MX,Android Phone,0,merlina,,select,title_results,2022-12-14 05:19:46
+La tia de la que paga,MX,Android Phone,0,woo una abogada extraordinaria,"Extraordinary Attorney Woo: Season 1: ""Extraordinary Attorney Woo""",play,title_results,2022-10-26 23:00:01
+La tia de la que paga,MX,Android Phone,0,woo una abogada extraordinaria,,select,title_results,2022-10-26 22:59:55
+La tia de la que paga,MX,Android Phone,0,woo una abogada extraordinaria,"Extraordinary Attorney Woo: Season 1: ""Extraordinary Attorney Woo""",play,title_results,2022-10-26 11:39:30
+La tia de la que paga,MX,Android Phone,0,woo una abogada extraordinaria,,select,title_results,2022-10-26 11:39:26
+La tia de la que paga,MX,Android Phone,0,woo una abogada extraordinaria,,select,title_results,2022-10-26 11:37:49
+La tia de la que paga,MX,Android Phone,0,beloascaran,"Belascoarán, PI: Season 1: ""Days in Combat""",play,title_results,2022-10-13 23:21:31
+La tia de la que paga,MX,Android Phone,0,beloascaran,,select,title_results,2022-10-13 23:21:05
+La tia de la que paga,MX,Android Phone,0,belascus,,select,title_results,2022-10-13 23:18:37
+La tia de la que paga,MX,Android Phone,0,,Brian Banks,select,prequery_results,2022-10-05 16:19:07
+La tia de la que paga,MX,Android Phone,0,el violín,My Father's Violin,play,title_results,2022-09-22 03:02:04
+La tia de la que paga,MX,Android Phone,0,el violín,My Father's Violin,select,title_results,2022-09-22 03:01:56
+La tia de la que paga,MX,Android Phone,0,diario de u,"Diary of a Gigolo: Season 1: ""Episode 2""",play,title_results,2022-09-20 17:53:17
+La tia de la que paga,MX,Android Phone,0,diario de u,,select,title_results,2022-09-20 17:52:50
+La tia de la que paga,MX,Android Phone,0,diario de u,,select,title_results,2022-09-20 17:52:49
+La tia de la que paga,MX,Android Phone,0,diario de ,,select,title_results,2022-09-20 17:52:46
+La tia de la que paga,MX,Android Phone,0,,Footloose,play,prequery_results,2022-09-11 18:37:26
+La tia de la que paga,MX,Android Phone,0,,Footloose,select,prequery_results,2022-09-11 18:37:21
+La tia de la que paga,MX,Android Phone,0,orgullo y pre,Pride & Prejudice,play,title_results,2022-09-09 03:59:35
+La tia de la que paga,MX,Android Phone,0,orgullo y pre,Pride & Prejudice,select,title_results,2022-09-09 03:59:22
+La tia de la que paga,MX,Android Phone,0,películas mexicanas,Amores perros,select,title_results,2022-09-06 01:38:15
+La tia de la que paga,MX,Android Phone,0,proyecto adam,The Adam Project,select,title_results,2022-07-18 21:46:31
+La tia de la que paga,MX,Android Phone,0,proyecto adam,The Adam Project,play,title_results,2022-07-18 20:56:25
+La tia de la que paga,MX,Android Phone,0,proyecto adam,The Adam Project,select,title_results,2022-07-18 20:56:16
+La tia de la que paga,MX,Android Phone,0,la boda de mi mejor amigo,Stepmom,select,title_results,2022-07-18 18:52:43
+La tia de la que paga,MX,Android Phone,0,jerry mc,Forrest Gump,play,title_results,2022-07-13 16:23:05
+La tia de la que paga,MX,Android Phone,0,jerry mc,Forrest Gump,select,title_results,2022-07-13 16:22:50
+La tia de la que paga,MX,Android Phone,0,la cabaña,,select,title_results,2022-07-13 16:21:07
+La tia de la que paga,MX,Smart TV,0,,,play,prequery_results,2022-07-10 18:37:35
+La tia de la que paga,MX,Smart TV,0,,,select,prequery_results,2022-07-10 18:37:30
+La tia de la que paga,MX,Android Phone,0,malv,"Malverde, el santo patrón: Season 1: ""Malverde, ladrón de caminos""",play,title_results,2022-07-10 18:36:02
+La tia de la que paga,MX,Android Phone,0,malv,,select,title_results,2022-07-10 18:35:57
+La tia de la que paga,MX,Android Phone,0,str,,select,title_results,2022-07-07 15:17:34
+La tia de la que paga,MX,Android Phone,0,str,,select,title_results,2022-07-07 15:17:34
+La tia de la que paga,MX,Android Phone,0,a dos metros de tí,Five Feet Apart,play,title_results,2022-06-27 13:53:54
+La tia de la que paga,MX,Android Phone,0,a dos metros de tí,Five Feet Apart,select,title_results,2022-06-27 13:53:49
+La tia de la que paga,MX,Android Phone,0,i am micheal,I Am Michael,play,title_results,2022-06-23 21:16:41
+La tia de la que paga,MX,Android Phone,0,i am micheal,I Am Michael,select,title_results,2022-06-23 21:16:36
+La tia de la que paga,MX,Android Phone,0,stranger things,"Stranger Things 4: ""Chapter Two: Vecna's Curse""",play,title_results,2022-06-10 12:29:19
+La tia de la que paga,MX,Android Phone,0,stranger things,"Stranger Things 4: ""Chapter Two: Vecna's Curse""",play,title_results,2022-06-10 12:29:19
+La tia de la que paga,MX,Android Phone,0,stranger things,,select,title_results,2022-06-10 12:29:15
+La tia de la que paga,MX,Android Phone,0,stranger things,,select,title_results,2022-06-10 12:29:15
+La tia de la que paga,MX,Android Phone,0,suit,,select,title_results,2022-06-08 13:07:57
+La tia de la que paga,MX,Android Phone,0,suit,,select,title_results,2022-06-08 13:07:22
+La tia de la que paga,MX,Android Phone,0,admi,Admission,play,title_results,2022-06-07 22:21:05
+La tia de la que paga,MX,Android Phone,0,admi,Admission,play,title_results,2022-06-07 22:21:00
+La tia de la que paga,MX,Android Phone,0,admi,Admission,play,title_results,2022-06-07 22:05:44
+La tia de la que paga,MX,Android Phone,0,admi,Admission,play,title_results,2022-06-07 22:05:25
+La tia de la que paga,MX,Android Phone,0,admi,Admission,select,title_results,2022-06-07 22:05:22
+La tia de la que paga,MX,Android Phone,0,str,"Stranger Things 4: ""Chapter One: The Hellfire Club""",play,title_results,2022-06-06 01:23:14
+La tia de la que paga,MX,Android Phone,0,str,"Stranger Things 4: ""Chapter One: The Hellfire Club""",play,title_results,2022-06-06 01:23:14
+La tia de la que paga,MX,Android Phone,0,str,,select,title_results,2022-06-06 01:19:07
+La tia de la que paga,MX,Android Phone,0,str,,select,title_results,2022-06-06 01:19:07
+La tia de la que paga,MX,Android Phone,0,en la hierba alta,In the Tall Grass,play,title_results,2022-05-25 00:22:39
+La tia de la que paga,MX,Android Phone,0,en la hierba alta,In the Tall Grass,select,title_results,2022-05-25 00:22:32
+La tia de la que paga,MX,Android Phone,0,orphan black,,select,title_results,2022-05-21 04:09:42
+La tia de la que paga,MX,Android Phone,0,oz,,select,title_results,2022-05-17 22:58:26
+La tia de la que paga,MX,Android Phone,0,vuelta al insti,,select,title_results,2022-05-14 13:26:10
+La tia de la que paga,MX,Android Phone,0,bienvenido,"Welcome to Eden: Season 1: ""The Trip of Your Life""",play,title_results,2022-05-11 03:36:02
+La tia de la que paga,MX,Android Phone,0,bienvenido,,select,title_results,2022-05-11 03:35:59
+La tia de la que paga,MX,Android Phone,0,cua,90 Minutes in Heaven,play,title_results,2022-05-03 01:47:27
+La tia de la que paga,MX,Android Phone,0,cua,90 Minutes in Heaven,select,title_results,2022-05-03 01:47:24
+La tia de la que paga,MX,Android Phone,0,cua,40 Years Young,select,title_results,2022-05-03 01:47:06
+La tia de la que paga,MX,Android Phone,0,first lady,Becoming,play,title_results,2022-04-19 20:51:06
+La tia de la que paga,MX,Android Phone,0,first lady,Becoming,select,title_results,2022-04-19 20:50:55
+La tia de la que paga,MX,Android Phone,0,comer,Closer,play,title_results,2022-04-17 18:44:19
+La tia de la que paga,MX,Android Phone,0,comer,Closer,select,title_results,2022-04-17 18:44:14
+La tia de la que paga,MX,Android Phone,0,comer,The Time Traveler's Wife,play,title_results,2022-04-17 18:40:17
+La tia de la que paga,MX,Android Phone,0,comer,The Time Traveler's Wife,select,title_results,2022-04-17 18:40:14
+La tia de la que paga,MX,Android Phone,0,comer,Stepmom,play,title_results,2022-04-17 18:36:58
+La tia de la que paga,MX,Android Phone,0,comer,Stepmom,select,title_results,2022-04-17 18:36:51
+La tia de la que paga,MX,Android Phone,0,oz,"Ozark: Season 3: ""Fire Pink""",play,title_results,2022-04-12 19:59:05
+La tia de la que paga,MX,Android Phone,0,oz,"Ozark: Season 3: ""It Came from Michoacán""",play,title_results,2022-04-12 19:57:53
+La tia de la que paga,MX,Android Phone,0,oz,,select,title_results,2022-04-12 19:57:26
+La tia de la que paga,MX,Android Phone,0,reducción,Couples Retreat,play,title_results,2022-04-10 13:23:45
+La tia de la que paga,MX,Android Phone,0,reducción,Couples Retreat,select,title_results,2022-04-10 13:23:39
+La tia de la que paga,MX,Android Phone,0,reducción,Downsizing,play,title_results,2022-04-10 12:46:56
+La tia de la que paga,MX,Android Phone,0,reducción,Downsizing,select,title_results,2022-04-10 12:46:45
+La tia de la que paga,MX,Android Phone,0,esto apenas comienza,Just Getting Started,play,title_results,2022-04-09 16:04:28
+La tia de la que paga,MX,Android Phone,0,esto apenas comienza,Just Getting Started,play,title_results,2022-04-09 15:12:29
+La tia de la que paga,MX,Android Phone,0,esto apenas comienza,Just Getting Started,select,title_results,2022-04-09 15:12:07
+La tia de la que paga,MX,Android Phone,0,,Ya veremos,play,prequery_results,2022-04-08 20:21:09
+La tia de la que paga,MX,Android Phone,0,,Ya veremos,select,prequery_results,2022-04-08 20:20:40
+La tia de la que paga,MX,Android Phone,0,blade,Blade Runner 2049,play,title_results,2022-03-31 01:40:14
+La tia de la que paga,MX,Android Phone,0,blade,Blade Runner 2049,select,title_results,2022-03-31 01:40:10
+La tia de la que paga,MX,Android Phone,0,patch,Patch Adams,play,title_results,2022-03-26 21:30:56
+La tia de la que paga,MX,Android Phone,0,patch,Patch Adams,play,title_results,2022-03-26 20:46:58
+La tia de la que paga,MX,Android Phone,0,patch,Patch Adams,select,title_results,2022-03-26 20:46:42
+La tia de la que paga,MX,Android Phone,0,,,select,prequery_results,2022-03-20 16:32:02
+La tia de la que paga,MX,Android Phone,0,proyecto adam,The Adam Project,select,title_results,2022-03-06 22:05:24
+La tia de la que paga,MX,Android Phone,0,el protector,The Marksman,play,title_results,2022-02-19 00:28:50
+La tia de la que paga,MX,Android Phone,0,el protector,The Marksman,select,title_results,2022-02-19 00:28:46
+La tia de la que paga,MX,Android Phone,0,lie to me,,select,title_results,2022-02-16 21:12:58
+La tia de la que paga,MX,Android Phone,0,,Meet Joe Black,play,prequery_results,2022-02-14 03:56:35
+La tia de la que paga,MX,Android Phone,0,,Meet Joe Black,select,prequery_results,2022-02-14 03:56:21
+La tia de la que paga,MX,Android Phone,0,,Eat Pray Love,play,prequery_results,2022-02-14 03:54:47
+La tia de la que paga,MX,Android Phone,0,,Eat Pray Love,select,prequery_results,2022-02-14 03:54:45
+La tia de la que paga,MX,Android Phone,0,eat,Stepmom,play,title_results,2022-02-14 02:16:24
+La tia de la que paga,MX,Android Phone,0,eat,Stepmom,select,title_results,2022-02-14 02:16:21
+La tia de la que paga,MX,Android Phone,0,cásate conmigo,The Boy Next Door,play,title_results,2022-02-12 16:43:44
+La tia de la que paga,MX,Android Phone,0,cásate conmigo,The Boy Next Door,play,title_results,2022-02-12 16:43:36
+La tia de la que paga,MX,Android Phone,0,cásate conmigo,The Boy Next Door,play,title_results,2022-02-12 16:43:29
+La tia de la que paga,MX,Android Phone,0,cásate conmigo,The Boy Next Door,select,title_results,2022-02-12 16:43:25
+La tia de la que paga,MX,Smart TV,0,gree,,play,suggestion_results,2022-01-30 01:28:37
+La tia de la que paga,MX,Smart TV,0,gree,,play,suggestion_results,2022-01-30 01:27:53
+La tia de la que paga,MX,Smart TV,0,gree,,select,suggestion_results,2022-01-30 01:27:43
+La tia de la que paga,MX,Smart TV,0,gree,Greenland,select,suggestion_results,2022-01-30 01:27:36
+La tia de la que paga,MX,Android Phone,0,hook,Knowing,select,title_results,2022-01-28 22:44:25
+La tia de la que paga,MX,Android Phone,0,hook,"Hook: Season 1: ""Round 1: Yap""",play,title_results,2022-01-28 22:36:40
+La tia de la que paga,MX,Android Phone,0,hook,,select,title_results,2022-01-28 22:36:35
+La tia de la que paga,MX,Smart TV,0,ho,Fast & Furious Presents: Hobbs & Shaw,select,title_results,2022-01-24 04:49:23
+La tia de la que paga,MX,Smart TV,0,ho,Fast & Furious Presents: Hobbs & Shaw,select,title_results,2022-01-24 04:47:26
+La tia de la que paga,MX,Smart TV,0,ho,Fast & Furious Presents: Hobbs & Shaw,select,title_results,2022-01-24 04:43:19
+La tia de la que paga,MX,Smart TV,0,ho,Fast & Furious Presents: Hobbs & Shaw,select,title_results,2022-01-24 04:37:27
+La tia de la que paga,MX,Android Phone,0,67673,Bring it On: All or Nothing,select,title_results,2022-01-23 22:53:03
+La tia de la que paga,MX,Android Phone,0,la casa ,The House,play,title_results,2022-01-23 02:33:15
+La tia de la que paga,MX,Android Phone,0,la casa ,The House,select,title_results,2022-01-23 02:33:11
+La tia de la que paga,MX,Android Phone,0,náufrago,The Time Traveler's Wife,play,title_results,2022-01-16 05:54:15
+La tia de la que paga,MX,Android Phone,0,náufrago,The Time Traveler's Wife,select,title_results,2022-01-16 05:54:11
+La tia de la que paga,MX,Android Phone,0,4,Four to Dinner,play,title_results,2022-01-13 18:33:47
+La tia de la que paga,MX,Android Phone,0,4,Four to Dinner,select,title_results,2022-01-13 18:33:43
+La tia de la que paga,MX,Android Phone,0,4 mitades ,Four to Dinner,play,title_results,2022-01-13 00:45:19
+La tia de la que paga,MX,Android Phone,0,4 mitades ,Four to Dinner,select,title_results,2022-01-13 00:45:16
+La tia de la que paga,MX,Android Phone,0,el lobo de wall street,Catch Me If You Can,play,title_results,2022-01-01 16:39:47
+La tia de la que paga,MX,Android Phone,0,el lobo de wall street,Catch Me If You Can,select,title_results,2022-01-01 16:39:43
+La tia de la que paga,MX,Android Phone,0,el lobo de wall street,Catch Me If You Can,select,title_results,2022-01-01 16:39:34
+La tia de la que paga,MX,Android Phone,0,el lobo de wall street,Shutter Island,select,title_results,2022-01-01 16:39:31
+La tia de la que paga,MX,Android Phone,0,el lobo de wall street,Shutter Island,select,title_results,2022-01-01 16:39:22
+La tia de la que paga,MX,Android Phone,0,el lobo de wall street,Catch Me If You Can,select,title_results,2022-01-01 16:39:20
+La tia de la que paga,MX,Android Phone,0,miedo ñro,The Shallows,play,title_results,2021-12-31 22:02:15
+La tia de la que paga,MX,Android Phone,0,miedo ñro,The Shallows,select,title_results,2021-12-31 22:02:12
+La tia de la que paga,MX,Android Phone,0,lull,Lulli,play,title_results,2021-12-28 18:02:47
+La tia de la que paga,MX,Android Phone,0,lull,Lulli,select,title_results,2021-12-28 18:02:43
+La tia de la que paga,MX,Android Phone,0,lu,Lucy,play,title_results,2021-12-28 07:01:34
+La tia de la que paga,MX,Android Phone,0,lu,Lucy,select,title_results,2021-12-28 07:01:30
+La tia de la que paga,MX,Android Phone,0,el estallido de la ,Dhamaka,play,title_results,2021-12-19 17:11:43
+La tia de la que paga,MX,Android Phone,0,el estallido de la ,Dhamaka,select,title_results,2021-12-19 17:11:31
+La tia de la que paga,MX,Android Phone,0,el estallido de la ,Dhamaka,select,title_results,2021-12-19 17:11:30
+La tia de la que paga,MX,Android Phone,0,el estallido de la ,Dhamaka,select,title_results,2021-12-19 17:11:22
+La tia de la que paga,MX,Smart TV,0,non,Non-Stop,play,title_results,2021-12-19 05:55:21
+La tia de la que paga,MX,Smart TV,0,non,Non-Stop,select,title_results,2021-12-19 05:55:14
+La tia de la que paga,MX,Smart TV,0,joh,Ashfall,select,title_results,2021-12-19 05:52:16
+La tia de la que paga,MX,Smart TV,0,joh,,select,title_results,2021-12-19 05:50:50
+La tia de la que paga,MX,Smart TV,0,voc,Don’t Listen,play,title_results,2021-12-19 05:43:17
+La tia de la que paga,MX,Smart TV,0,voc,Don’t Listen,select,title_results,2021-12-19 05:42:12
+La tia de la que paga,MX,Android Phone,0,monarca,,select,title_results,2021-12-10 03:53:20
+La tia de la que paga,MX,Android Phone,0,erin ,Erin Brockovich,play,title_results,2021-12-09 22:14:14
+La tia de la que paga,MX,Android Phone,0,erin ,Erin Brockovich,select,title_results,2021-12-09 22:14:10
+La tia de la que paga,MX,Android Phone,0,erin ,Erin Brockovich,select,title_results,2021-12-09 22:14:09
+La tia de la que paga,MX,Android Phone,0,erin ,Erin Brockovich,select,title_results,2021-12-09 22:14:06
+La tia de la que paga,MX,Android Phone,0,not,Erin Brockovich,play,suggestion_results,2021-12-09 17:56:07
+La tia de la que paga,MX,Android Phone,0,not,Erin Brockovich,select,suggestion_results,2021-12-09 17:56:01
+La tia de la que paga,MX,Android Phone,0,not,,select,suggestion_results,2021-12-09 17:55:01
+La tia de la que paga,MX,Android Phone,0,niki lau,A Life of Speed: The Juan Manuel Fangio Story,select,prequery_results,2021-12-04 18:47:30
+La tia de la que paga,MX,Android Phone,0,niki lau,Rush,select,prequery_results,2021-12-04 18:46:46
+La tia de la que paga,MX,Android Phone,0,niki lau,Rush,select,prequery_results,2021-12-04 18:46:45
+La tia de la que paga,MX,Android Phone,0,niki lau,Rush,select,prequery_results,2021-12-04 18:46:37
+La tia de la que paga,MX,Android Phone,0,mesias,"Messiah: Season 1: ""He That Hath an Ear""",play,title_results,2021-12-02 19:29:45
+La tia de la que paga,MX,Android Phone,0,mesias,,select,title_results,2021-12-02 19:29:41
+La tia de la que paga,MX,Android Phone,0,the choice ,The Choice,play,title_results,2021-11-26 00:13:28
+La tia de la que paga,MX,Android Phone,0,the choice ,The Choice,select,title_results,2021-11-26 00:13:24
+La tia de la que paga,MX,Android Phone,0,,Holidate,play,prequery_results,2021-11-20 00:18:23
+La tia de la que paga,MX,Android Phone,0,,Holidate,select,prequery_results,2021-11-20 00:18:21
+La tia de la que paga,MX,Smart TV,0,nottin,Notting Hill,select,suggestion_results,2021-11-17 01:24:03
+La tia de la que paga,MX,Smart TV,0,hol,The Holiday,play,title_results,2021-11-15 02:30:07
+La tia de la que paga,MX,Smart TV,0,hol,The Holiday,select,title_results,2021-11-15 02:29:55
+La tia de la que paga,MX,Smart TV,0,nottin,The Holiday,play,title_results,2021-11-12 22:22:04
+La tia de la que paga,MX,Smart TV,0,nottin,The Holiday,select,title_results,2021-11-12 22:21:19
+La tia de la que paga,MX,Smart TV,0,nottin,Notting Hill,play,title_results,2021-11-12 22:20:16
+La tia de la que paga,MX,Smart TV,0,nottin,Notting Hill,select,title_results,2021-11-12 22:19:41
+La tia de la que paga,MX,Smart TV,0,silva,Miracles from Heaven,select,suggestion_results,2021-11-08 23:36:24
+La tia de la que paga,MX,Smart TV,0,silva,,select,suggestion_results,2021-11-08 23:35:41
+La tia de la que paga,MX,Android Phone,0,matrimo,What Happens in Vegas,play,title_results,2021-10-31 06:57:48
+La tia de la que paga,MX,Android Phone,0,matrimo,What Happens in Vegas,select,title_results,2021-10-31 06:57:45
+La tia de la que paga,MX,Android Phone,0,,Gran Torino,play,prequery_results,2021-10-24 01:28:56
+La tia de la que paga,MX,Android Phone,0,,Gran Torino,select,prequery_results,2021-10-24 01:28:53
+La tia de la que paga,MX,Android Phone,0,,Gran Torino,select,prequery_results,2021-10-24 01:28:45
+La tia de la que paga,MX,Android Phone,0,little,Little Manhattan,play,title_results,2021-10-17 07:09:25
+La tia de la que paga,MX,Android Phone,0,little,Little Manhattan,select,title_results,2021-10-17 07:09:21
+La tia de la que paga,MX,Smart TV,0,la mula,El Camino: A Breaking Bad Movie,play,title_results,2021-10-15 20:56:46
+La tia de la que paga,MX,Smart TV,0,la mula,El Camino: A Breaking Bad Movie,select,title_results,2021-10-15 20:56:37
+La tia de la que paga,MX,Android Phone,0,colonia dignidad: una secta alemana en chile”? ,,select,prequery_results,2021-10-04 16:50:34
+La tia de la que paga,MX,Android Phone,0,dance,,select,prequery_results,2021-09-25 16:13:42
+La tia de la que paga,MX,Android Phone,0,dance,Let's Dance,play,prequery_results,2021-09-25 14:24:16
+La tia de la que paga,MX,Android Phone,0,dance,Let's Dance,select,prequery_results,2021-09-25 14:24:07
+La tia de la que paga,MX,Android Phone,0,dance,Let's Dance,play,prequery_results,2021-09-25 12:34:15
+La tia de la que paga,MX,Android Phone,0,dance,Let's Dance,play,prequery_results,2021-09-25 12:34:09
+La tia de la que paga,MX,Android Phone,0,dance,Let's Dance,select,prequery_results,2021-09-25 12:34:07
+La tia de la que paga,MX,Android Phone,0,call me by your name”,Call Me by Your Name,play,prequery_results,2021-09-21 19:52:59
+La tia de la que paga,MX,Android Phone,0,call me by your name”,Call Me by Your Name,select,prequery_results,2021-09-21 19:52:56
+La tia de la que paga,MX,Android Phone,0,tan disti,Same Kind of Different as Me,play,prequery_results,2021-09-20 00:59:59
+La tia de la que paga,MX,Android Phone,0,tan disti,Same Kind of Different as Me,select,prequery_results,2021-09-20 00:59:55
+La tia de la que paga,MX,Android Phone,0,the fa,The Father Who Moves Mountains,play,prequery_results,2021-09-19 12:00:34
+La tia de la que paga,MX,Android Phone,0,the fa,The Father Who Moves Mountains,select,prequery_results,2021-09-19 12:00:30
+La tia de la que paga,MX,Android Phone,0,,San Andreas,play,prequery_results,2021-09-18 01:45:40
+La tia de la que paga,MX,Android Phone,0,,San Andreas,select,prequery_results,2021-09-18 01:45:35
+La tia de la que paga,MX,Android Phone,0,the father ,The Father Who Moves Mountains,select,prequery_results,2021-09-15 20:01:29
+La tia de la que paga,MX,Android Phone,0,taibo ii,Patria,play,prequery_results,2021-09-15 18:42:10
+La tia de la que paga,MX,Android Phone,0,taibo ii,Patria,select,prequery_results,2021-09-15 18:42:05
+La tia de la que paga,MX,Smart TV,0,mex,Perfect Strangers,play,suggestion_results,2021-09-15 00:22:43
+La tia de la que paga,MX,Smart TV,0,mex,Perfect Strangers,select,suggestion_results,2021-09-15 00:22:33
+La tia de la que paga,MX,Smart TV,0,mex,,select,suggestion_results,2021-09-15 00:22:11
+La tia de la que paga,MX,Android Phone,0,más allá de la fiesta ,Afterlife of the Party,play,prequery_results,2021-09-10 03:25:21
+La tia de la que paga,MX,Android Phone,0,más allá de la fiesta ,Afterlife of the Party,play,prequery_results,2021-09-10 03:07:44
+La tia de la que paga,MX,Android Phone,0,más allá de la fiesta ,Afterlife of the Party,select,prequery_results,2021-09-10 03:07:40
+La tia de la que paga,MX,Smart TV,0,,The Hunger Games: Catching Fire,play,suggestion_results,2021-09-07 22:31:03
+La tia de la que paga,MX,Smart TV,0,,The Hunger Games: Catching Fire,select,suggestion_results,2021-09-07 22:30:52
+La tia de la que paga,MX,Smart TV,0,,,play,suggestion_results,2021-09-07 22:29:53
+La tia de la que paga,MX,Smart TV,0,,,select,suggestion_results,2021-09-07 22:29:46
+La tia de la que paga,MX,Smart TV,0,,,select,suggestion_results,2021-09-07 22:29:40
+La tia de la que paga,MX,Smart TV,0,ben,,select,suggestion_results,2021-09-07 22:29:21
+La tia de la que paga,MX,Smart TV,0,ben,,select,suggestion_results,2021-09-07 22:29:07
+La tia de la que paga,MX,Smart TV,0,ben,6 Underground,play,suggestion_results,2021-09-07 22:28:57
+La tia de la que paga,MX,Smart TV,0,ben,6 Underground,select,suggestion_results,2021-09-07 22:28:50
+La tia de la que paga,MX,Smart TV,0,ben,,select,suggestion_results,2021-09-07 22:28:37
+La tia de la que paga,MX,Smart TV,0,signs,Deepwater Horizon,play,title_results,2021-09-07 22:26:21
+La tia de la que paga,MX,Smart TV,0,signs,Deepwater Horizon,select,title_results,2021-09-07 22:26:16
+La tia de la que paga,MX,Smart TV,0,signs,,play,title_results,2021-09-07 22:22:40
+La tia de la que paga,MX,Smart TV,0,signs,,select,title_results,2021-09-07 22:22:35
+La tia de la que paga,MX,Android Phone,0,historia de un matrimonio,Marriage Story,select,prequery_results,2021-09-05 13:13:53
+La tia de la que paga,MX,Smart TV,0,noth,Notting Hill,play,title_results,2021-09-04 04:07:08
+La tia de la que paga,MX,Smart TV,0,noth,Notting Hill,play,title_results,2021-09-04 02:32:26
+La tia de la que paga,MX,Smart TV,0,noth,Notting Hill,select,title_results,2021-09-04 02:32:17
+La tia de la que paga,MX,Android Phone,0,the souvenir: ,The Souvenir,play,prequery_results,2021-08-28 18:20:43
+La tia de la que paga,MX,Android Phone,0,the souvenir: ,The Souvenir,play,prequery_results,2021-08-28 18:17:29
+La tia de la que paga,MX,Android Phone,0,the souvenir: ,The Souvenir,select,prequery_results,2021-08-28 18:17:26
+La tia de la que paga,MX,Android Phone,0,,The Last Letter From Your Lover,play,prequery_results,2021-08-28 14:44:27
+La tia de la que paga,MX,Android Phone,0,,The Last Letter From Your Lover,select,prequery_results,2021-08-28 14:44:23
+La tia de la que paga,MX,Android Phone,0,,Grown Ups,select,prequery_results,2021-08-28 14:44:07
+La tia de la que paga,MX,Android Phone,0,on the ver,,select,prequery_results,2021-08-28 14:43:49
+La tia de la que paga,MX,Android Phone,0,distancia de rescate ,"Virgin River: Season 1: ""A Wounded Heart""",play,prequery_results,2021-08-28 03:13:55
+La tia de la que paga,MX,Android Phone,0,distancia de rescate ,,select,prequery_results,2021-08-28 03:13:50
+La tia de la que paga,MX,Smart TV,0,,The Amazing Spider-Man 2,play,prequery_results,2021-08-25 22:23:06
+La tia de la que paga,MX,Smart TV,0,,The Amazing Spider-Man 2,select,prequery_results,2021-08-25 22:21:53
+La tia de la que paga,MX,Smart TV,0,spidermaan,Spider-Man: Homecoming,play,title_results,2021-08-25 15:43:51
+La tia de la que paga,MX,Smart TV,0,spidermaan,Spider-Man: Homecoming,select,title_results,2021-08-25 15:43:43
+La tia de la que paga,MX,Android Phone,0,gambito de dama ,Creating The Queen's Gambit,play,prequery_results,2021-08-22 22:18:49
+La tia de la que paga,MX,Android Phone,0,gambito de dama ,Creating The Queen's Gambit,select,prequery_results,2021-08-22 22:18:43
+La tia de la que paga,MX,Android Phone,0,todo va ,"Everything Will Be Fine: Season 1: ""Ortiburcio""",play,prequery_results,2021-08-21 16:16:30
+La tia de la que paga,MX,Android Phone,0,todo va ,,select,prequery_results,2021-08-21 16:16:27
+La tia de la que paga,MX,Android Phone,0,daddy day care ,Daddy Day Care,play,prequery_results,2021-08-19 01:59:33
+La tia de la que paga,MX,Android Phone,0,daddy day care ,Daddy Day Care,select,prequery_results,2021-08-19 01:59:30
+La tia de la que paga,MX,Android Phone,0,black islan,Black Island,select,prequery_results,2021-08-13 05:15:07
+La tia de la que paga,MX,Android Phone,0,black islan,Black Island,select,prequery_results,2021-08-13 05:14:54
+La tia de la que paga,MX,Android Phone,0,valer,"Valeria: Season 1: ""The Impostor""",play,prequery_results,2021-08-13 05:14:15
+La tia de la que paga,MX,Android Phone,0,valer,,select,prequery_results,2021-08-13 05:14:11
+La tia de la que paga,MX,Smart TV,0,pe,,play,title_results,2021-08-13 00:24:26
+La tia de la que paga,MX,Smart TV,0,pe,,select,title_results,2021-08-13 00:24:12
+La tia de la que paga,MX,Android Phone,0,boy erased ,Boy Erased,play,prequery_results,2021-08-12 02:12:54
+La tia de la que paga,MX,Android Phone,0,boy erased ,Boy Erased,select,prequery_results,2021-08-12 02:12:51
+La tia de la que paga,MX,Android Phone,0,unexpected beauty,Set It Up,play,prequery_results,2021-08-10 12:34:18
+La tia de la que paga,MX,Android Phone,0,unexpected beauty,Set It Up,select,prequery_results,2021-08-10 12:34:15
+La tia de la que paga,MX,Android Phone,0,unexpected beauty,Set It Up,play,prequery_results,2021-08-10 12:29:30
+La tia de la que paga,MX,Android Phone,0,unexpected beauty,Set It Up,select,prequery_results,2021-08-10 12:29:27
+La tia de la que paga,MX,Android Phone,0,unexpected beauty,Irreplaceable You,select,prequery_results,2021-08-10 12:29:18
+La tia de la que paga,MX,Android Phone,0,feel good ,"Feel Good: Season 1 (Channel 4): ""Episode 1""",play,prequery_results,2021-08-10 01:27:11
+La tia de la que paga,MX,Android Phone,0,feel good ,,select,prequery_results,2021-08-10 01:27:07
+La tia de la que paga,MX,Android Phone,0,amor a primera bestia ,"Tattoo Redo: Season 1: ""Who's Ready to See Some Bad Tattoos?""",play,prequery_results,2021-08-10 01:25:06
+La tia de la que paga,MX,Android Phone,0,amor a primera bestia ,,select,prequery_results,2021-08-10 01:25:03
+La tia de la que paga,MX,Android Phone,0,amor a primera bestia ,"Sexy Beasts: Season 1: ""Emma the Demon""",play,prequery_results,2021-08-10 01:24:47
+La tia de la que paga,MX,Android Phone,0,amor a primera bestia ,,select,prequery_results,2021-08-10 01:24:41
+La tia de la que paga,MX,Android Phone,0,amor a primera bestia ,,select,prequery_results,2021-08-10 01:24:41
+La tia de la que paga,MX,Android Phone,0,dos,Two Times You,play,prequery_results,2021-08-09 21:36:03
+La tia de la que paga,MX,Android Phone,0,dos,Two Times You,select,prequery_results,2021-08-09 21:36:00
+La tia de la que paga,MX,Android Phone,0,como la vida misma ,Brokeback Mountain,select,prequery_results,2021-08-09 17:19:47
+La tia de la que paga,MX,Android Phone,0,como la vida misma ,Life Itself,play,prequery_results,2021-08-09 17:17:38
+La tia de la que paga,MX,Android Phone,0,como la vida misma ,Life Itself,select,prequery_results,2021-08-09 17:17:33
+La tia de la que paga,MX,Smart TV,0,c,,select,title_results,2021-08-09 15:55:20
+La tia de la que paga,MX,Android Phone,0,dos veces tú,Two Times You,play,prequery_results,2021-08-09 14:32:32
+La tia de la que paga,MX,Android Phone,0,dos veces tú,Two Times You,select,prequery_results,2021-08-09 14:32:14
+La tia de la que paga,MX,Smart TV,0,creed,Creed II,play,title_results,2021-08-09 02:10:38
+La tia de la que paga,MX,Smart TV,0,creed,Creed II,select,title_results,2021-08-09 02:10:01
+La tia de la que paga,MX,Smart TV,0,creed,Creed,play,title_results,2021-08-09 01:21:19
+La tia de la que paga,MX,Smart TV,0,creed,Creed,select,title_results,2021-08-09 01:20:12
+La tia de la que paga,MX,Android Phone,0,retratos de una guerra ,Ashes in the Snow,play,prequery_results,2021-08-08 16:52:49
+La tia de la que paga,MX,Android Phone,0,retratos de una guerra ,Ashes in the Snow,select,prequery_results,2021-08-08 16:52:46
+La tia de la que paga,MX,Android Phone,0,bartkowiak ,Bartkowiak,play,prequery_results,2021-08-07 14:10:39
+La tia de la que paga,MX,Android Phone,0,bartkowiak ,Bartkowiak,select,prequery_results,2021-08-07 14:10:35
+La tia de la que paga,MX,Android Phone,0,boy,Boy Erased,select,prequery_results,2021-08-04 20:21:39
+La tia de la que paga,MX,Smart TV,0,que,Don't Blame the Kid,select,suggestion_results,2021-07-29 03:51:12
+La tia de la que paga,MX,Smart TV,0,que cul,Don't Blame the Kid,select,suggestion_results,2021-07-28 23:22:25
+La tia de la que paga,MX,Smart TV,0,que c,Don't Blame the Kid,select,suggestion_results,2021-07-28 23:21:38
+La tia de la que paga,MX,Android Phone,0,yo ,,select,prequery_results,2021-07-24 02:25:39
+La tia de la que paga,MX,Android Phone,0,buddha,Baahubali 2: The Conclusion (Hindi Version),play,prequery_results,2021-07-19 02:53:53
+La tia de la que paga,MX,Android Phone,0,buddha,Baahubali 2: The Conclusion (Hindi Version),select,prequery_results,2021-07-19 02:53:48
+La tia de la que paga,MX,Android Phone,0,i cant only,I Can Only Imagine,select,prequery_results,2021-07-09 16:58:52
+La tia de la que paga,MX,Android Phone,0,i cant only,I Can Only Imagine,select,prequery_results,2021-07-09 16:58:16
+La tia de la que paga,MX,Android Phone,0,,Mean Girls,play,prequery_results,2021-07-04 18:48:58
+La tia de la que paga,MX,Android Phone,0,,Mean Girls,select,prequery_results,2021-07-04 18:48:55
+La tia de la que paga,MX,Android Phone,0,,One Day,play,prequery_results,2021-07-01 20:59:31
+La tia de la que paga,MX,Android Phone,0,,One Day,select,prequery_results,2021-07-01 20:59:27
+La tia de la que paga,MX,Android Phone,0,fairytale love,My Girl,play,prequery_results,2021-07-01 20:19:02
+La tia de la que paga,MX,Android Phone,0,fairytale love,My Girl,select,prequery_results,2021-07-01 20:18:59
+La tia de la que paga,MX,Android Phone,0,fals,"Falsa identidad: Season 1: ""Isabel and Diego's challenge""",play,prequery_results,2021-07-01 20:17:10
+La tia de la que paga,MX,Android Phone,0,fals,,select,prequery_results,2021-07-01 20:17:06
+La tia de la que paga,MX,Android Phone,0,amor de cuento,Friends with Money,select,prequery_results,2021-06-30 00:16:34
+La tia de la que paga,MX,Android Phone,0,pater,Little Women,play,prequery_results,2021-06-29 00:53:46
+La tia de la que paga,MX,Android Phone,0,pater,Little Women,select,prequery_results,2021-06-29 00:53:42
+La tia de la que paga,MX,Android Phone,0,desplazados,Captain Phillips,select,prequery_results,2021-06-27 19:27:28
+La tia de la que paga,MX,Smart TV,0,chan,Changeling,play,suggestion_results,2021-06-20 20:55:48
+La tia de la que paga,MX,Android Phone,0,guarderia de papá,Are We There Yet?,play,prequery_results,2021-06-20 20:36:22
+La tia de la que paga,MX,Android Phone,0,guarderia de papá,Are We There Yet?,select,prequery_results,2021-06-20 20:36:19
+La tia de la que paga,MX,Android Phone,0,papá para ,Double Dad,play,prequery_results,2021-06-20 20:30:11
+La tia de la que paga,MX,Android Phone,0,papá para ,Double Dad,select,prequery_results,2021-06-20 20:30:08
+La tia de la que paga,MX,Smart TV,0,chan,Changeling,play,suggestion_results,2021-06-20 19:47:59
+La tia de la que paga,MX,Smart TV,0,chan,Changeling,select,suggestion_results,2021-06-20 19:47:26
+La tia de la que paga,MX,Smart TV,0,chan,The Changeling,select,suggestion_results,2021-06-20 19:47:22
+La tia de la que paga,MX,Smart TV,0,angeli,,select,suggestion_results,2021-06-20 19:46:47
+La tia de la que paga,MX,Smart TV,0,angeli,,select,suggestion_results,2021-06-20 19:42:32
+La tia de la que paga,MX,Smart TV,0,bad,Bad Boys,select,suggestion_results,2021-06-14 02:42:54
+La tia de la que paga,MX,Smart TV,0,arriv,Arrival,select,title_results,2021-06-13 21:32:45
+La tia de la que paga,MX,Smart TV,0,arriv,Arrival,play,title_results,2021-06-13 18:49:40
+La tia de la que paga,MX,Smart TV,0,arriv,Arrival,select,title_results,2021-06-13 18:48:30
+La tia de la que paga,MX,Android Phone,0,100,"100 días para enamorarnos: Season 1: ""Parejas en crisis""",play,prequery_results,2021-06-12 03:45:47
+La tia de la que paga,MX,Android Phone,0,100,,select,prequery_results,2021-06-12 03:45:44
+La tia de la que paga,MX,Android Phone,0,fatherh,Fatherhood,select,,2021-06-05 22:55:44
+La tia de la que paga,MX,Smart TV,0,wol,Wolverine,select,,2021-05-29 04:24:08
+La tia de la que paga,MX,Smart TV,0,wol,Wolverine,select,,2021-05-29 04:23:34
+La tia de la que paga,MX,Smart TV,0,wol,,select,,2021-05-29 04:23:17
+La tia de la que paga,MX,Smart TV,0,wol,Wolverine,select,,2021-05-29 04:23:14
+La tia de la que paga,MX,Smart TV,0,the gue,The Guernsey Literary and Potato Peel Pie Society,play,,2021-04-15 13:12:32
+La tia de la que paga,MX,Smart TV,0,the gue,The Guernsey Literary and Potato Peel Pie Society,select,,2021-04-15 13:12:27
+La tia de la que paga,MX,Android Phone,0,la habitación,Charlie St. Cloud,select,,2021-04-12 12:30:54
+La tia de la que paga,MX,Android Phone,0,la habitación,Room,play,,2021-04-12 12:28:10
+La tia de la que paga,MX,Android Phone,0,la habitación,Room,select,,2021-04-12 12:28:06
+La tia de la que paga,MX,Android Phone,0,corazón valiente,Mercury Rising,select,,2021-04-07 15:39:09
+La tia de la que paga,MX,HTML 5,0,camp of my life,Caught by a Wave,play,,2021-04-07 05:05:09
+La tia de la que paga,MX,Android Phone,0,,Wonder,select,,2021-04-07 04:32:11
+La tia de la que paga,MX,HTML 5,0,inter,The Princess Switch: Switched Again,play,,2021-04-07 04:30:07
+La tia de la que paga,MX,Android Phone,0,won,Wonder,select,,2021-04-07 00:18:13
